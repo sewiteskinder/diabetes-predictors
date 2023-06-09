@@ -24,7 +24,7 @@ What are the primary factors that can predict the onset of diabetes? The Kaggle 
 ![Screenshot 2023-06-08 at 9 56 58 PM](https://github.com/sewiteskinder/diabetes-predictors/assets/114887398/68d86cd5-7c04-4388-8cd6-21293ad988ff)
 
 
-Results suggest Oversampling Model is accurate for predicting "diabetics" and the Logistic Regression model is more accurate at predicting "non diabetics". We would recommend using the Oversampling model overall because of the balance accuracy of 0.91 compared to the Logistic and TensorFlow at 0.82 and 0.81, respectively.
+Results suggest Oversampling Model is accurate for predicting "diabetics" and the Logistic Regression model is more accurate at predicting "non diabetics". We would recommend using the Oversampling model overall because of the balance accuracy of 0.85 compared to the Logistic and TensorFlow at 0.82 and 0.85, respectively. This is because the oversampling compensates for the minority group in the dataset.
 
 ## Team members: 
 Sewit Eskinder, Eduardo Peris, Arunkumar Sridharan, Daniela Castellon, Kudirat Abdulsalam
